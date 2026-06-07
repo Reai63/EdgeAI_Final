@@ -1,0 +1,11 @@
+# 虛擬環境
+edgeFinal/
+
+# 原始資料集（太大）
+data/raw/
+data/processed/
+
+# Python 快取
+__pycache__/
+*.pyc
+check_env.py
