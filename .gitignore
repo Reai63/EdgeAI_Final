@@ -9,5 +9,3 @@ data/processed/
 __pycache__/
 *.pyc
 check_env.py
-
-best_model_1.pth
